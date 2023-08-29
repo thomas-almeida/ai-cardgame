@@ -1,0 +1,7 @@
+@import url(arena.css);
+@import url(side-slots.css);
+@import url(hands.css);
+body {
+    background-color: black;
+    overflow: hidden;
+}

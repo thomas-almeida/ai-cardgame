@@ -1,0 +1,15 @@
+.side {
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slots {
+    border: 1px solid #eee;
+    width: 160px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 4px;
+    background-color: #dddddd28;
+}

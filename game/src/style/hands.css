@@ -1,0 +1,29 @@
+.hands {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.cards {
+    background-color: #999999;
+    width: 200px;
+    height: 250px;
+    border-radius: 3px;
+}
+
+#topside {
+    position: absolute;
+    top: 10px;
+}
+
+#bottomside {
+    position: absolute;
+    bottom: 25px;
+}
+
+#topside .cards {
+    width: 80px;
+    height: 100px;
+}
